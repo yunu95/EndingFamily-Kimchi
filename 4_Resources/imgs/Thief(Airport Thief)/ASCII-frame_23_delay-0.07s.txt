@@ -1,0 +1,50 @@
+.                                                              ...                    
+.                                                                                     
+.                                                                                     
+.                                                            :.              .        
+.                                                            ..              :.       
+.                                        ..:                  .              :.       
+.                                       .:iii.                .              ::       
+.                                      :77rv77               ..              i.       
+                                       :7ru1uY.               .              .:       
+                                      .:.:vYi:                               :.       
+                                               .77vii..                               
+                                          ...:.vgMMQgRDdu.                            
+                                           .:.:rEddPbbZZM2:..                         
+                                     ..  :UBX:.rqZqPqPPbbEr:i7:                       
+                                    ::.:2QBBP::iPdPqPqPqdPv.iEE7:                     
+.                                  i:.vQQBgBK:.iXZPbPbPddDL..JBQUi                    
+                                 .r..IBQgZgRP:.:5gZbEdEEggJ. rQQQXr.    . . .         
+                           . .  .urLZBgDEDDBDr:7PQMRMRMggMUi:2QRMQDv.  ......... . .. 
+                    .     ...  .qvLQBDgDMQBBBbKKPKX5XKbPZDggQQQMMgBD7................ 
+                           ..  Ud7dQDDgQRMdK251uvv777vY1UI5bZQQQgRRBq:...........:.::.
+                          ... iZ1KBgRRQZKJsYjsussvYYYvsvsvLvLuPgQQMQBI:...:.:::.:.::v.
+                 ........... .sXSQMRQQXuLjjI2U1UuuJ1JJJUJ22UsJsSZQRQBBY:.:::::::::is7 
+    ....:.....................YdQRQQgqXXbPdPdbdIUJJYUXbPbqI2qXUJ5ZQMQBd:::::i:::irLi  
+. ...:::.:...................:IQZgZd25XPdZIjqPqZPSJ2bgPPPbuUKKju7JEDPgMr.::iiiir7v:   
+: :...:.....:::::::::::.::i::YQdDBDu2KdPRQgXbIYqBBQQQI2XdRBBDXPSJ7PREPQu:iiiiir7r.  ..
+...........ir777r7r7rr1EPs7r:ZQPMBb5IS22IKS52IJEQgqgQSY25PPb11IX2JSQgdBb.1Jiirri  .ii.
+. .   ..ir77rr7r77777rJSKvvi:ZBbQDXIIujYJLYsJLSQMY7vDDJLJLYLJsu1I1XggZBJ:2ur7ri  :i.  
+. ...:rvLsvL777Lvv7L777i  .:.YBQSsvsLLLsLYLY71RQ1sLYuMbs7v7vvv7YsjvjPBX7rrrri: .:     
+:.:r1U1s1jujJrrrLYvrii77ri7i::DZXjJuIUI25ISKDQQ1sJ1sJXQDK55UIu2USIS5DMqPr:r:i7vvr:.   
+:.:ru5uJ77ii:.         :::..:rSv7XKdbEdEPEPdKILvvsvJYLJSKPKKXqXP55ussRBK    .iirr777:.
+                             iSYr7YYJLJsju5JvL222LYLJsuJujjLYYsLsvv7LQB.       .   .: 
+                             .1S7LsJYJsjjISSIDQBQb5qEQMb12jjsjsJsjYYUQ1            .. 
+                              v5jYJs1jUuU1I2525IKSXKK5II2UUJjJ1JusjsK5:        .....:.
+                              :5ujsjJ2uI2I1212uus1u1Juu2UI1UJuJ1j1sUgS.  ..   .IvJj5: 
+                              :SSJJsjjUIXI521sju21Uu1suUIIS22u112uUqB7 .  .   :qIIP2  
+                              .iL2jjsj1SSK552IKMMQggZPUI2S5I11j215XQU .i.  :. .KUj12i.
+                          .:..   ijsjY12XXqqDRBBBBBBBBBDqIXIUJU1IS1.  .i: .1L .UsvsJ:.
+                        .  ...   :YYsJJI5SIXKbPdPPPbPEPEqXISuuu1jv     :.     .5YYUU..
+                         ..... .dBPr7YUUS551U12u212u21Uu2UIUUj1sYU7 .qSii..:  :X1YS1. 
+                         ...  :BBBBZjYJIIS221I2I252525UI11u1jJvYqBBBXrr... :  :SJJXX  
+                              BBBQBBBUju2UIU2UX5SIX552I1UJ1JJY5gBQBBB7 .Xbj:  ibSUqP. 
+                            .BBBBBBBgXXSUUuU1U1I2522uUJjJJJ1UZQBBBQBBQ  .::.  ::..Lg. 
+                            BBBQBQBBESdqP55U2UU1UJ1uuJ1J1uSXXEBQBQBQBBP       .   uQ. 
+                           gQBQBQBQBZXPZqPqPqPKqSKSKXPKqqPqqKdQBQBQBBBBB.     uBQRQg. 
+. .                     :7QBBQBQBQBBMXKPEPdPdPEdDEDZDEZPEPqSPKQQBQBQBBBQBY    :ii:i:. 
+:..                .iuuEQBBBBBQBQBQBREI5PZdbqPPdqPqPqPXqSKSPSuDBBBQBQBQBBBd.       ...
+:           .r7rvYXEQRQBBQBBBQBQBQBBBgPU5KZbPPbXK555X5K5S5PbXjMBBQBQBQBQBBBBg5s:. .::.
+:.::.     iDBBQBQBQgDgRQRBQBQBQBQBBBBBDPUjUdbdPPKKSqXXXPqPPIsXDBBBQBQBQBQBBBBBBB5:.:ii
+vrL7Lvi:PBBBBQBBBMgZDgQRQQBQBQBQBQBQBQQdduvYbEdqdPPSKqgEdqjr5KbQBQBQBQBQBQBQBBBBBP2r::
+.  ...iBBBQBBBBQggZEEQRQQBQBQQQBQBQBQBBgPdU7722uu5qdEEY7uLi1qI2MBBQBQBQBQBQQQBBBBBQB1 
